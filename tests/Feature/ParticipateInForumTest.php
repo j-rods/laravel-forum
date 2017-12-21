@@ -26,3 +26,4 @@ class ParticipateInForumTest extends TestCase
              ->assertSee($reply->body);
     }
 }
+ 
